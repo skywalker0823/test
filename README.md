@@ -6,6 +6,10 @@
 4. 執行 : python3 test3/data.py
 
 # Results:
-## Task1
-## Task2
-## Task3(DB)
+## Test1
+See code
+## Test2
+![截圖 2023-07-10 下午12 22 15](https://github.com/skywalker0823/test/assets/56625237/657c8974-f4b5-4172-b5e5-f449496b4cd0)
+執行後按 "y" 可繼續抽取
+## Test3(DB)
+![截圖 2023-07-10 下午12 20 20](https://github.com/skywalker0823/test/assets/56625237/1ab01d22-61d6-437b-b339-2ed7cc59128c)
